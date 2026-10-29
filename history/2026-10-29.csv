@@ -1,0 +1,21 @@
+metro,city,state,firms_tracked,firms_checked,firms_cited,checks_90d,cited_share
+phoenix,Phoenix,AZ,156,156,54,6450,0.3462
+dallas,Dallas,TX,165,104,13,104,0.1250
+tampa,Tampa,FL,157,95,12,95,0.1263
+houston,Houston,TX,171,93,14,93,0.1505
+austin,Austin,TX,156,26,5,26,0.1923
+atlanta,Atlanta,GA,156,10,1,10,0.1000
+charlotte,Charlotte,NC,156,9,6,9,0.6667
+denver,Denver,CO,156,0,0,0,
+las-vegas,Las Vegas,NV,156,0,0,0,
+orlando,Orlando,FL,156,0,0,0,
+nashville,Nashville,TN,155,0,0,0,
+seattle,Seattle,WA,156,120,62,2940,0.5167
+san-francisco,San Francisco,CA,156,0,0,0,
+new-york-city,New York City,NY / NJ,156,0,0,0,
+boston,Boston,MA,156,0,0,0,
+los-angeles,Los Angeles,CA,156,0,0,0,
+chicago,Chicago,IL,156,0,0,0,
+miami,Miami,FL,156,0,0,0,
+salt-lake-city,Salt Lake City,UT,156,0,0,0,
+boise,Boise,ID,152,0,0,0,
