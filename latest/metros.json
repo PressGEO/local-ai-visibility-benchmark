@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:53:25.763Z",
+  "generated_at": "2026-11-02T15:00:11.082Z",
   "source": "https://pressgeo.com/research",
   "license": "CC-BY-4.0",
   "metros": [
@@ -67,7 +67,7 @@
       "metro": "charlotte",
       "city": "Charlotte",
       "state": "NC",
-      "firmsTracked": 156,
+      "firmsTracked": 157,
       "firmsChecked": 9,
       "firmsCited": 6,
       "checks": 9,
@@ -117,21 +117,21 @@
       "metro": "seattle",
       "city": "Seattle",
       "state": "WA",
-      "firmsTracked": 156,
-      "firmsChecked": 120,
-      "firmsCited": 62,
-      "checks": 2940,
-      "citedShare": 0.5166666666666667
+      "firmsTracked": 157,
+      "firmsChecked": 157,
+      "firmsCited": 76,
+      "checks": 4815,
+      "citedShare": 0.4840764331210191
     },
     {
       "metro": "san-francisco",
       "city": "San Francisco",
       "state": "CA",
       "firmsTracked": 156,
-      "firmsChecked": 0,
-      "firmsCited": 0,
-      "checks": 0,
-      "citedShare": null
+      "firmsChecked": 24,
+      "firmsCited": 12,
+      "checks": 540,
+      "citedShare": 0.5
     },
     {
       "metro": "new-york-city",
@@ -205,11 +205,11 @@
     }
   ],
   "totals": {
-    "firmsTracked": 3140,
-    "firmsChecked": 613,
-    "firmsCited": 167,
-    "checks": 9727,
-    "citedShare": 0.2724306688417618,
+    "firmsTracked": 3142,
+    "firmsChecked": 674,
+    "firmsCited": 193,
+    "checks": 12142,
+    "citedShare": 0.28635014836795253,
     "markets": 20,
     "services": 13
   }
