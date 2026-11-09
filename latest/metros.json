@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:00:11.082Z",
+  "generated_at": "2026-11-09T15:00:07.720Z",
   "source": "https://pressgeo.com/research",
   "license": "CC-BY-4.0",
   "metros": [
@@ -7,11 +7,11 @@
       "metro": "phoenix",
       "city": "Phoenix",
       "state": "AZ",
-      "firmsTracked": 156,
-      "firmsChecked": 156,
-      "firmsCited": 54,
-      "checks": 6450,
-      "citedShare": 0.34615384615384615
+      "firmsTracked": 149,
+      "firmsChecked": 137,
+      "firmsCited": 53,
+      "checks": 6181,
+      "citedShare": 0.38686131386861317
     },
     {
       "metro": "dallas",
@@ -27,7 +27,7 @@
       "metro": "tampa",
       "city": "Tampa",
       "state": "FL",
-      "firmsTracked": 157,
+      "firmsTracked": 165,
       "firmsChecked": 95,
       "firmsCited": 12,
       "checks": 95,
@@ -78,40 +78,40 @@
       "city": "Denver",
       "state": "CO",
       "firmsTracked": 156,
-      "firmsChecked": 0,
-      "firmsCited": 0,
-      "checks": 0,
-      "citedShare": null
+      "firmsChecked": 12,
+      "firmsCited": 2,
+      "checks": 12,
+      "citedShare": 0.16666666666666666
     },
     {
       "metro": "las-vegas",
       "city": "Las Vegas",
       "state": "NV",
       "firmsTracked": 156,
-      "firmsChecked": 0,
-      "firmsCited": 0,
-      "checks": 0,
-      "citedShare": null
+      "firmsChecked": 12,
+      "firmsCited": 1,
+      "checks": 12,
+      "citedShare": 0.08333333333333333
     },
     {
       "metro": "orlando",
       "city": "Orlando",
       "state": "FL",
       "firmsTracked": 156,
-      "firmsChecked": 0,
-      "firmsCited": 0,
-      "checks": 0,
-      "citedShare": null
+      "firmsChecked": 12,
+      "firmsCited": 1,
+      "checks": 12,
+      "citedShare": 0.08333333333333333
     },
     {
       "metro": "nashville",
       "city": "Nashville",
       "state": "TN",
       "firmsTracked": 155,
-      "firmsChecked": 0,
-      "firmsCited": 0,
-      "checks": 0,
-      "citedShare": null
+      "firmsChecked": 12,
+      "firmsCited": 5,
+      "checks": 12,
+      "citedShare": 0.4166666666666667
     },
     {
       "metro": "seattle",
@@ -119,85 +119,115 @@
       "state": "WA",
       "firmsTracked": 157,
       "firmsChecked": 157,
-      "firmsCited": 76,
-      "checks": 4815,
-      "citedShare": 0.4840764331210191
+      "firmsCited": 78,
+      "checks": 5007,
+      "citedShare": 0.4968152866242038
     },
     {
       "metro": "san-francisco",
       "city": "San Francisco",
       "state": "CA",
       "firmsTracked": 156,
-      "firmsChecked": 24,
-      "firmsCited": 12,
-      "checks": 540,
-      "citedShare": 0.5
+      "firmsChecked": 96,
+      "firmsCited": 39,
+      "checks": 1680,
+      "citedShare": 0.40625
     },
     {
       "metro": "new-york-city",
       "city": "New York City",
       "state": "NY / NJ",
       "firmsTracked": 156,
-      "firmsChecked": 0,
-      "firmsCited": 0,
-      "checks": 0,
-      "citedShare": null
+      "firmsChecked": 156,
+      "firmsCited": 57,
+      "checks": 3720,
+      "citedShare": 0.36538461538461536
     },
     {
       "metro": "boston",
       "city": "Boston",
       "state": "MA",
       "firmsTracked": 156,
-      "firmsChecked": 0,
-      "firmsCited": 0,
-      "checks": 0,
-      "citedShare": null
+      "firmsChecked": 96,
+      "firmsCited": 35,
+      "checks": 1164,
+      "citedShare": 0.3645833333333333
     },
     {
       "metro": "los-angeles",
       "city": "Los Angeles",
       "state": "CA",
       "firmsTracked": 156,
-      "firmsChecked": 0,
-      "firmsCited": 0,
-      "checks": 0,
-      "citedShare": null
+      "firmsChecked": 24,
+      "firmsCited": 10,
+      "checks": 240,
+      "citedShare": 0.4166666666666667
     },
     {
       "metro": "chicago",
       "city": "Chicago",
       "state": "IL",
       "firmsTracked": 156,
-      "firmsChecked": 0,
-      "firmsCited": 0,
-      "checks": 0,
-      "citedShare": null
+      "firmsChecked": 12,
+      "firmsCited": 4,
+      "checks": 12,
+      "citedShare": 0.3333333333333333
     },
     {
       "metro": "miami",
       "city": "Miami",
       "state": "FL",
       "firmsTracked": 156,
-      "firmsChecked": 0,
-      "firmsCited": 0,
-      "checks": 0,
-      "citedShare": null
+      "firmsChecked": 12,
+      "firmsCited": 1,
+      "checks": 12,
+      "citedShare": 0.08333333333333333
     },
     {
       "metro": "salt-lake-city",
       "city": "Salt Lake City",
       "state": "UT",
       "firmsTracked": 156,
-      "firmsChecked": 0,
-      "firmsCited": 0,
-      "checks": 0,
-      "citedShare": null
+      "firmsChecked": 12,
+      "firmsCited": 2,
+      "checks": 12,
+      "citedShare": 0.16666666666666666
     },
     {
       "metro": "boise",
       "city": "Boise",
       "state": "ID",
       "firmsTracked": 152,
+      "firmsChecked": 12,
+      "firmsCited": 3,
+      "checks": 12,
+      "citedShare": 0.25
+    },
+    {
+      "metro": "toronto",
+      "city": "Toronto",
+      "state": "ON",
+      "firmsTracked": 0,
+      "firmsChecked": 0,
+      "firmsCited": 0,
+      "checks": 0,
+      "citedShare": null
+    },
+    {
+      "metro": "vancouver",
+      "city": "Vancouver",
+      "state": "BC",
+      "firmsTracked": 2,
+      "firmsChecked": 0,
+      "firmsCited": 0,
+      "checks": 0,
+      "citedShare": null
+    },
+    {
+      "metro": "calgary",
+      "city": "Calgary",
+      "state": "AB",
+      "firmsTracked": 0,
       "firmsChecked": 0,
       "firmsCited": 0,
       "checks": 0,
@@ -205,12 +235,12 @@
     }
   ],
   "totals": {
-    "firmsTracked": 3142,
-    "firmsChecked": 674,
-    "firmsCited": 193,
-    "checks": 12142,
-    "citedShare": 0.28635014836795253,
-    "markets": 20,
-    "services": 13
+    "firmsTracked": 3145,
+    "firmsChecked": 1099,
+    "firmsCited": 342,
+    "checks": 18425,
+    "citedShare": 0.3111919927206551,
+    "markets": 23,
+    "services": 14
   }
 }
