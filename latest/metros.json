@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:00:07.720Z",
+  "generated_at": "2026-11-16T15:00:10.833Z",
   "source": "https://pressgeo.com/research",
   "license": "CC-BY-4.0",
   "metros": [
@@ -149,39 +149,39 @@
       "state": "MA",
       "firmsTracked": 156,
       "firmsChecked": 96,
-      "firmsCited": 35,
-      "checks": 1164,
-      "citedShare": 0.3645833333333333
+      "firmsCited": 38,
+      "checks": 1236,
+      "citedShare": 0.3958333333333333
     },
     {
       "metro": "los-angeles",
       "city": "Los Angeles",
       "state": "CA",
       "firmsTracked": 156,
-      "firmsChecked": 24,
-      "firmsCited": 10,
-      "checks": 240,
-      "citedShare": 0.4166666666666667
+      "firmsChecked": 144,
+      "firmsCited": 46,
+      "checks": 1488,
+      "citedShare": 0.3194444444444444
     },
     {
       "metro": "chicago",
       "city": "Chicago",
       "state": "IL",
       "firmsTracked": 156,
-      "firmsChecked": 12,
-      "firmsCited": 4,
-      "checks": 12,
-      "citedShare": 0.3333333333333333
+      "firmsChecked": 120,
+      "firmsCited": 51,
+      "checks": 2268,
+      "citedShare": 0.425
     },
     {
       "metro": "miami",
       "city": "Miami",
       "state": "FL",
       "firmsTracked": 156,
-      "firmsChecked": 12,
-      "firmsCited": 1,
-      "checks": 12,
-      "citedShare": 0.08333333333333333
+      "firmsChecked": 72,
+      "firmsCited": 32,
+      "checks": 1536,
+      "citedShare": 0.4444444444444444
     },
     {
       "metro": "salt-lake-city",
@@ -217,7 +217,7 @@
       "metro": "vancouver",
       "city": "Vancouver",
       "state": "BC",
-      "firmsTracked": 2,
+      "firmsTracked": 17,
       "firmsChecked": 0,
       "firmsCited": 0,
       "checks": 0,
@@ -235,11 +235,11 @@
     }
   ],
   "totals": {
-    "firmsTracked": 3145,
-    "firmsChecked": 1099,
-    "firmsCited": 342,
-    "checks": 18425,
-    "citedShare": 0.3111919927206551,
+    "firmsTracked": 3160,
+    "firmsChecked": 1387,
+    "firmsCited": 459,
+    "checks": 23525,
+    "citedShare": 0.330930064888248,
     "markets": 23,
     "services": 14
   }
